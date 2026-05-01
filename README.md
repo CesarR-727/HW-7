@@ -79,6 +79,24 @@ SQL queries visible in console (if show-sql=true)
 <img width="1454" height="736" alt="Screenshot 2026-04-11 at 5 20 35 PM" src="https://github.com/user-attachments/assets/90c2ce8b-7eca-4f2d-9f3c-ce22249c70fb" />
 <img width="1454" height="319" alt="Screenshot 2026-04-11 at 5 21 43 PM" src="https://github.com/user-attachments/assets/96287fee-2ea6-4ecb-9710-47fcf61258db" />
 
+HW 7
+Error responses (404, 400, 500)
+<img width="1272" height="282" alt="Screenshot 2026-04-26 at 5 50 30 PM" src="https://github.com/user-attachments/assets/49da554d-96e7-4159-92b9-731a5ce687f3" />
+<img width="1272" height="282" alt="Screenshot 2026-04-26 at 5 53 28 PM" src="https://github.com/user-attachments/assets/f28318cc-0de4-46fd-ae98-65364abf70ee" />
+<img width="1272" height="282" alt="Screenshot 2026-04-26 at 5 54 59 PM" src="https://github.com/user-attachments/assets/5948fea1-b094-4532-ba94-9de6438b1756" />
+
+Soft delete working
+<img width="1272" height="805" alt="Screenshot 2026-04-26 at 5 57 05 PM" src="https://github.com/user-attachments/assets/6a6645b4-f9c6-4e8d-90df-3efdd43afcd1" />
+<img width="1272" height="193" alt="Screenshot 2026-04-26 at 5 57 15 PM" src="https://github.com/user-attachments/assets/23fd8b9b-5c6c-43cc-b934-46661e629860" />
+<img width="1286" height="571" alt="Screenshot 2026-04-26 at 5 57 52 PM" src="https://github.com/user-attachments/assets/72a90ecc-ece3-4ddb-a09c-439a2d3d744c" />
+<img width="1286" height="769" alt="Screenshot 2026-04-26 at 5 58 32 PM" src="https://github.com/user-attachments/assets/a12e7af4-7f6a-4ca8-a4f2-f1cb5674944c" />
+<img width="1286" height="181" alt="Screenshot 2026-04-26 at 5 59 25 PM" src="https://github.com/user-attachments/assets/c9c45ff4-d25b-44ce-b7ce-dc4ab2fc087b" />
+
+Health endpoint
+<img width="1039" height="547" alt="Screenshot 2026-04-26 at 5 39 02 PM" src="https://github.com/user-attachments/assets/63754018-272b-4837-b6a5-31afc78ab634" />
+
+Request logging in console
+<img width="1286" height="78" alt="Screenshot 2026-04-26 at 6 01 30 PM" src="https://github.com/user-attachments/assets/b70cdc38-d0c0-4827-ae30-1bed4970cfa5" />
 
 
 Video Link (HW 5)
@@ -87,5 +105,6 @@ https://youtu.be/Y9Qv9jL0VNQ
 Video Link (HW 6) 
 https://youtu.be/KXFYitOg2uE
 
-
+Video Link (HW 7)
+https://youtu.be/mnLHh9ZzXHQ
 
